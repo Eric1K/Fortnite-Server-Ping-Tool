@@ -6,4 +6,4 @@ Extremely useful tool for testing your Fortnite Ping/Ping to AWS Servers.
 ### Installation & Usage
 Simply download the jar file at https://github.com/Eric1K/Fortnite-Server-Ping-Tool/blob/main/FN%20Ping%20by%20Eric1K.jar or FN Ping.jar
 To use this program, run the jar file (you need Java Runtime Environment) and select server(s) that you want to ping to, and select the number of pings you'd like to do.
-Then, press ping and the amount of ping you have towards the server will be recorded in the bottom box.
+Then, press ping and the amount of ping you have towards the server will be recorded in the bottom box. The average will also be recorded once it has finished all the pings.
